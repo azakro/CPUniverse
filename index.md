@@ -16,6 +16,7 @@ In scene three, the mouse click exploration goes a step further by having the mo
 In the final scene, the mouse click is fully processed by the CPU with help from the memory subsystem and the mouse click action can be executed.
 
 # Contributors
+![Alana](alana.png)
 ### Alana Zakroczemski
 Alana is a senior at the University of Rochester studying computer science and studio art. She worked on creating the 3D environments in Blender, and in configuring Unity with the Google Carboard SDK. 
 ### Sooyoung Kim
